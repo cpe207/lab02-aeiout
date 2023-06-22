@@ -1,0 +1,23 @@
+h3 {
+  color: burlywood;
+  font-family: cursive;
+}
+h1 {
+  color: brown;
+  text-align: center;
+  font-style: italic;
+}
+nav {
+  text-align: center;
+}
+.skill-header {
+  text-align: left;
+}
+.skill-container {
+  border: solid salmon;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
