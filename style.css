@@ -7,11 +7,11 @@ h1 {
   font-style: italic;
 }
 nav {
-  background-color: black;
-  color: azure;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(0, 0, 0);
   text-align: center;
   white-space: normal;
-  margin-bottom: 15px;
 }
 .skill-header {
   text-align: left;
@@ -28,4 +28,9 @@ a {
   color: azure;
   font-size: 115%;
   text-decoration: none;
+}
+.flex-row {
+  display: flex;
+  text-align: left;
+  border: solid 2px;
 }
